@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: AlJazeeraFont;
+  src: url("../assets/fonts/Al-Jazeera-Arabic-Regular.ttf");
+}
+
+@font-face {
+  font-family: AlJazeeraFontBold;
+  src: url("../assets/fonts/Al-Jazeera-Arabic-Bold.ttf");
+}
+
+html {
+  @apply box-border;
+}
+
+*, *::before, *::after {
+  @apply box-border m-0 p-0;
+  list-style: none;
+  text-decoration: none;
+}
+
+:root {
+  font-family: "Poppins", AlJazeeraFont, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  @apply font-normal overflow-x-hidden;
+}
+
+a {
+  @apply text-[#646cff] font-medium;
+  text-decoration: inherit;
+}
+
+a:hover {
+  @apply text-[#535bf2];
+}
+
+input, input:active, input:focus,
+a,
+button {
+  @apply outline-none;
+}
+
+input:active, input:focus {
+  @apply shadow-md scale-105 transition-all duration-200 ease-linear;
+}
+
+body {
+  @apply m-0 min-w-[300px] min-h-screen text-[1em];
+}
