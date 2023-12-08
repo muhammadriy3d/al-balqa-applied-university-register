@@ -21,7 +21,7 @@ const Footer = () => {
           نظام البلقاء والأنظمة والبيانات والموارد الأخرى التي تتطلب مصادقة البلقاء للوصول إليها، مخصصة فقط لمستخدمي جامعة البلقاء الشرعيين. قد تتم مراقبة الاستخدام، وقد يؤدي الاستخدام غير السليم لنظام البلقاء أو تلك الموارد إلى اتخاذ إجراءات تأديبية وتهم مدنية وجنائية.
         </p>
       </div>
-      <div className="self-center p-2 text-center  w-full min-h-[35px]">
+      <div className="self-center p-2 text-center  w-full min-h-[35px] dark:bg-slate-900 bg-slate-100">
         <p dir="ltr" className="dark:text-slate-400 text-slate-800 max-[400px]:text-sm">Copyright © 2012 - {new Date().getFullYear()} جامعة البلقاء التطبيقية, All right reserved.</p>
       </div>
     </div>
