@@ -7,21 +7,21 @@ I decide to recreate the balqa register system because I didn't like it so much 
 - Most importantly I want to let the system more accessible to all people!
 - THIS IS NOT THE ORIGINAL OR ANY ORIGIN FILE FROM THE REAL SYSTEM, THIS ONLY MY OWN PRESPECTIVE FOR VERY LITTLE ENCHANCE.
 
-## Review
+## Preview
 
-### Day theme: Large Size
+- Day theme: Large Size
 
 ![Day theme](https://github.com/muhammadriy3d/al-balqa-applied-university-register/blob/main/docs/DesktopUI/day/Amman_Regester_System.png?raw=true)
 
-### Night theme: Large Size
+- Night theme: Large Size
 
 ![Night theme](https://github.com/muhammadriy3d/al-balqa-applied-university-register/blob/main/docs/DesktopUI/night/Amman_Register_System.png?raw=true)
 
-### Day theme: Mobile Size
+- Day theme: Mobile Size
 
 ![Day theme](https://github.com/muhammadriy3d/al-balqa-applied-university-register/blob/main/docs/MobileUI/day/Amman_Register_System.png?raw=true)
 
-### Night theme: Mobile Size
+- Night theme: Mobile Size
 
 ![Night theme](https://github.com/muhammadriy3d/al-balqa-applied-university-register/blob/main/docs/MobileUI/night/Amman_Register_System.png?raw=true)
 
