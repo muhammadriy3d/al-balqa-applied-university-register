@@ -33,4 +33,4 @@ Just folk this and do your best then pull request to this repo
 
 © 2012 - 2023 Al-Balqa University, All right reserved.
 
-UI/UX © 2023 Truprox, Muhammad Riyad.
+UI/UX © 2023 Truprox, Muhammad Riyad, All right reserved.
