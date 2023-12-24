@@ -4,7 +4,7 @@ import Alert from "./components/Alert";
 import Footer from "./components/Footer";
 import TopMenu from "./components/TopMenu";
 import Login from "./pages/Login";
-import NotFound from "./pages/NotFound";
+//import NotFound from "./pages/NotFound";
 
 function App() {
 
@@ -17,8 +17,7 @@ function App() {
 
       <main className="overflow-hidden flex flex-col xl:justify-normal xl:p-4 xl:items-start justify-center items-center h-full dark:bg-slate-800 bg-white  ">
         <Routes>
-          <Route index path="/" element={<Login />} />
-          <Route path="*" element={<NotFound />} />
+          <Route path="*" element={<Login />} />
         </Routes>
       </main>
 
