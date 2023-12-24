@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom";
+//import { Routes, Route } from "react-router-dom";
 
 import Alert from "./components/Alert";
 import Footer from "./components/Footer";
@@ -16,9 +16,7 @@ function App() {
       </header>
 
       <main className="overflow-hidden flex flex-col xl:justify-normal xl:p-4 xl:items-start justify-center items-center h-full dark:bg-slate-800 bg-white  ">
-        <Routes>
-          <Route path="*" element={<Login />} />
-        </Routes>
+        <Login />
       </main>
 
       <footer className="flex flex-col h-full bg-slate-50 dark:bg-slate-900">
