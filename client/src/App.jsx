@@ -11,13 +11,13 @@ function App() {
   return (
     <>
       <Alert />
-      <header className="dark:bg-slate-800 flex flex-col justify-center">
+      <header className="dark:bg-slate-800 bg-white flex flex-col justify-center">
         <TopMenu />
       </header>
 
-      <main className="overflow-hidden flex flex-col xl:justify-normal xl:p-4 xl:items-start justify-center items-center h-full dark:bg-slate-800">
+      <main className="overflow-hidden flex flex-col xl:justify-normal xl:p-4 xl:items-start justify-center items-center h-full dark:bg-slate-800 bg-white  ">
         <Routes>
-          <Route path="/login" element={<Login />} />
+          <Route path="/" element={<Login />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
