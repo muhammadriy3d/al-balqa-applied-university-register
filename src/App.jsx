@@ -17,7 +17,7 @@ function App() {
 
       <main className="overflow-hidden flex flex-col xl:justify-normal xl:p-4 xl:items-start justify-center items-center h-full dark:bg-slate-800 bg-white  ">
         <Routes>
-          <Route path="/" element={<Login />} />
+          <Route path="/al-balqa-applied-university-register/" element={<Login />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
