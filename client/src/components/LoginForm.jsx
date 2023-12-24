@@ -2,7 +2,7 @@ import Button from "./Button";
 
 const Form = () => {
   return (
-    <section className="max-w-[1680px] mx-auto w-full xl:rounded-lg xl:p-8 xl:ml-4 xl:shadow-lg xl:border dark:border-slate-700 border-slate-200 flex flex-col min-[1000px]:justify-center items-center max-[480px]:items-stretch max-[480px]:text-center">
+    <section className="mx-auto w-full xl:w-[900px] h-full min-h-[70vh] xl:min-h-full justify-center xl:h-[600px] xl:rounded-lg xl:p-8 xl:ml-4 xl:shadow-none xl:border dark:border-slate-700 border-slate-200 flex flex-col min-[1000px]:justify-center items-center max-[480px]:items-stretch max-[480px]:text-center">
       <h3 className="dark:text-white max-[400px]:text-xl text-2xl font-['AlJazeeraFontBold']">التسجيل كلية عمان</h3>
       <p className="dark:text-white max-[400px]:text-base text-lg">مرحبا بك من جديد!</p>
       <form className="flex flex-col p-8" action="/" method="post">

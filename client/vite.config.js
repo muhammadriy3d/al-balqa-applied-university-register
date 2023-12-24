@@ -4,7 +4,7 @@ import eslint from 'vite-plugin-eslint';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/login',
+  base: '/al-balqa-applied-university-register/',
     plugins: [eslint(), react()],
     server: {    
         // this ensures that the browser opens upon server start
