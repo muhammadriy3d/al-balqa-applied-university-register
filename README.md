@@ -5,8 +5,9 @@ I decide to recreate the balqa register system because I didn't like it so much 
 ## NOTES
 
 - Most importantly I want to let the system more accessible to all people!
-- THIS IS NOT THE ORIGINAL OR ANY ORIGIN FILE FROM THE REAL SYSTEM, THIS ONLY MY OWN PRESPECTIVE FOR VERY LITTLE ENCHANCE.
-
+- THIS IS NOT THE ORIGINAL OR ANY ORIGIN FILE FROM THE REAL SYSTEM, THIS ONLY MY CLONE FOR VERY LITTLE IMPROVEMENT FOR THE SEEK OF LEARNING AND DOING REAL WORLD PROBLEMS, THIS IS NOT RELATED TO IT IN ANY FORM.
+- IF YOU ARE THE OWNER AND YOU DIDN'T LIKE IT YOU CAN ASK FOR THAT. NO PROBLEM!
+ 
 ## Preview
 
 - Day theme: Large Size
@@ -27,10 +28,10 @@ I decide to recreate the balqa register system because I didn't like it so much 
 
 ## Contribute
 
-Just folk this and do your best then pull request to this repo
+As long as this is not an official you can suggest ideas and apply it for this CLONE.
 
 ## Credits
 
-© 2012 - 2023 Al-Balqa University, All right reserved.
+COPYRIGHTS © 2012 - 2023 Al-Balqa University, All right reserved.
 
-UI/UX © 2023 Truprox, Muhammad Riyad, All right reserved.
+Enchance idea for UI/UX © 2023 Truprox, Muhammad Riyad.
