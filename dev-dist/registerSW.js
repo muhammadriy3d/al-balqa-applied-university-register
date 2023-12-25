@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) navigator.serviceWorker.register('/al-balqa-applied-university-register/dev-sw.js?dev-sw', { scope: '/al-balqa-applied-university-register/', type: 'classic' })

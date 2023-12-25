@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/al-balqa-applied-university-register/sw.js', { scope: '/al-balqa-applied-university-register/' })})}
